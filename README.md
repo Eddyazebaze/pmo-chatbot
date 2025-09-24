@@ -12,14 +12,27 @@ Un chatbot expérimental développé avec **Botpress** pour tester la capacité 
 - Évaluer la robustesse des réponses sur le rôle du PMO.  
 - Tester la capacité du bot à éviter les **hallucinations**.  
 - Fournir une **base de connaissances pédagogique et structurée** en Markdown.  
-
+- Créer une vitrine professionnelle de compétences en **GRC, PMO, IA et gouvernance IT**.
+  
 ---
 
 ## 📂 Structure du projet
-- `kb/KB_PMO_Chatbot.md` → Knowledge Base complète.  
-- `kb/HighLevel_Instructions_PMO.md` → Instructions haut-niveau pour Botpress.  
-- `tests/QA_Test_Set.md` → Jeu de tests (33 questions).  
-
+```
+pmo-chatbot/
+├── README.md                        → Présentation générale du projet
+├── LICENSE                          → Licence MIT
+├── .gitignore                       → Fichiers/dossiers ignorés par Git
+│
+├── kb/                              → Knowledge Base
+│   ├── KB_PMO_Chatbot.md            → KB complète (définitions, missions, livrables, pièges…)
+│   └── HighLevel_Instructions_PMO.md → Instructions haut-niveau pour Botpress
+│
+├── tests/                           → Jeu de tests QA
+│   └── QA_Test_Set.md               → 33 questions (20 factuelles, 10 pièges, 3 bonus)
+│
+└── docs/                            → Documentation complémentaire
+    └── Ressources_Comparatif_Chatbot.md → Comparatif Botpress, Dialogflow, Rasa, etc.
+```
 ---
 
 ## 🧪 Protocole de test
@@ -31,6 +44,37 @@ Un chatbot expérimental développé avec **Botpress** pour tester la capacité 
   - Périmètre (0-3)  
   - Clarté (0-2)  
   - Sobriété (0-1)  
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Prérequis
+- [Node.js](https://nodejs.org/) ≥ 18  
+- [Botpress Cloud](https://botpress.com/) ou Botpress local  
+- Git installé pour cloner le repo  
+
+### 2️⃣ Installation
+Clonez le repo :
+```bash
+git clone https://github.com/Eddyazebaze/pmo-chatbot.git
+cd pmo-chatbot
+```
+
+### 3️⃣ Importer la KB dans Botpress
+- Ouvrir Botpress Cloud ou votre instance locale.  
+- Importer le fichier `kb/KB_PMO_Chatbot.md`.  
+- Ajouter `kb/HighLevel_Instructions_PMO.md` dans les **Instructions système**.  
+
+### 4️⃣ Lancer le chatbot
+- Configurez le canal **Webchat** dans Botpress.  
+- Déployez et testez via l’interface Botpress.  
+- Utilisez `tests/QA_Test_Set.md` pour valider la cohérence des réponses.  
+
+### 5️⃣ Vérification
+- Réponses factuelles → doivent être précises et pédagogiques.  
+- Questions pièges → le bot doit refuser proprement.  
+- Bonus → confirmer la robustesse de la KB.  
 
 ---
 
@@ -57,8 +101,9 @@ Un chatbot expérimental développé avec **Botpress** pour tester la capacité 
 ---
 
 ## 👤 Auteur
-- **Nom :** Eddy AZEBAZE  
-- **LinkedIn :** [linkedin.com/in/eddy-azebaze-034a20226](https://www.linkedin.com/in/eddy-azebaze-034a20226)  
+**Eddy AZEBAZE, PMP®, CISM®** 
+- 🌐 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-pmp-cism)  
+- 💻 [GitHub](https://github.com/Eddyazebaze)  
 - **Email :** *eddy.azebaze@proton.me*  
 
 ---

@@ -2,9 +2,11 @@
 
 Un chatbot expérimental développé avec **Botpress** pour tester la capacité d’un assistant à répondre de manière fiable et pédagogique sur le **PMO (Project Management Office)**.
 
-![Status](https://img.shields.io/badge/status-experimental-orange)
+![Status](https://img.shields.io/badge/status-beta-brightgreen)
+[![Live Demo](https://img.shields.io/badge/demo-online-blue)](https://cdn.botpress.cloud/webchat/v3.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/09/20/23/20250920230011-RY5POMNZ.json)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Botpress](https://img.shields.io/badge/Botpress-v12-blue)
+![Made with Love](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
 
 ---
 
@@ -79,9 +81,9 @@ cd pmo-chatbot
 ---
 
 ## 🛠️ Stack utilisée
-- [Botpress](https://botpress.com/) – plateforme low-code pour chatbots  
-- **Markdown** – structuration de la KB  
-- **GitHub** – gestion de version et documentation  
+- [Botpress](https://botpress.com/) - plateforme low-code pour chatbots  
+- **Markdown** - structuration de la KB  
+- **GitHub** - gestion de version et documentation  
 
 ---
 

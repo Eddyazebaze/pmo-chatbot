@@ -1,8 +1,9 @@
 # 📑 Ressources & Comparatif - Solutions Chatbot (No‑Code / Low‑Code)
 
 ## Formation utilisée
-- YouTube (juillet 2025) - *Créer un chatbot IA avec Botpress (2024/2025)*  
+- YouTube (juillet 2025) - *[Créer un chatbot IA avec Botpress (2024/2025)](https://www.youtube.com/watch?v=nDdDs-z5HxU)*  
 - Format : no‑code, interface Botpress Cloud
+- Durée : ~1heure
 
 ## Tableau comparatif (synthèse)
 | Critère            | Botpress        | Dialogflow     | Rasa          | Tawk.to / autres |
@@ -16,9 +17,10 @@
 \* Rasa nécessite souvent des compétences Python/infra.
 
 ## Pourquoi Botpress pour ce projet
-- No‑code fluide, **zéro code à maintenir**.  
+- No‑code fluide, 
 - Déploiement rapide (iframe, CDN).  
-- Documentation claire + écosystème.  
+- Documentation claire + écosystème.
+- Pas de limitation d’usage (contrairement à Dialogflow : 180 req/min)
 - Bon alignement avec l’objectif : **démontrer** un assistant IA propre et fiable.
 
 ## Plan d’action recommandé
@@ -27,6 +29,8 @@
 3. Intégrer, tester, itérer (logs → amélioration KB).
 
 ## Liens utiles
-- Botpress Docs : https://botpress.com/docs  
-- Dialogflow : https://cloud.google.com/dialogflow/docs  
-- Rasa : https://rasa.com/docs/
+- [Botpress Docs](https://botpress.com/docs/)
+- [Dialogflow Docs](https://cloud.google.com/dialogflow/docs)
+- [Rasa](https://rasa.com/)
+- [Tawk.to](https://www.tawk.to/)
+- [Landbot](https://landbot.io/)

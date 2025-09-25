@@ -57,7 +57,7 @@ Vue d’ensemble du parcours présenté : Pourquoi un chatbot, Utiliser Botpress
 \* Rasa nécessite souvent des compétences Python/infra.
 
 ## Pourquoi Botpress pour ce projet
-- No‑code fluide, 
+- Low code/No‑code fluide, 
 - Déploiement rapide (iframe, CDN).  
 - Documentation claire + écosystème.
 - Pas de limitation d’usage (contrairement à Dialogflow : 180 req/min)

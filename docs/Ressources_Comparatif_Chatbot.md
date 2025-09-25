@@ -81,3 +81,16 @@ Vue d’ensemble du parcours présenté : Pourquoi un chatbot, Utiliser Botpress
 - [📘 Knowledge Base PMO](../kb/KB_PMO_Chatbot.md)  
 - [⚙️ High-Level Instructions](../kb/HighLevel_Instructions_PMO.md)  
 - [🧪 Jeu de tests (33 questions)](../tests/QA_Test_Set.md)  
+
+---
+
+## ✨ Auteur & Contact
+
+👤 **Eddy AZEBAZE, PMP®, CISM®**  
+📌 *IT Project Leader | PMO | GRC & AI/Data Strategy | Cybersecurity*  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-pmp-cism)  
+💻 [GitHub](https://github.com/Eddyazebaze)  
+📅 [Calendly – 30 min](https://calendly.com/eddy-azebaze-proton/30min)  
+
+---

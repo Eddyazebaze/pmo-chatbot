@@ -81,4 +81,3 @@ Vue d’ensemble du parcours présenté : Pourquoi un chatbot, Utiliser Botpress
 - [📘 Knowledge Base PMO](../kb/KB_PMO_Chatbot.md)  
 - [⚙️ High-Level Instructions](../kb/HighLevel_Instructions_PMO.md)  
 - [🧪 Jeu de tests (33 questions)](../tests/QA_Test_Set.md)  
-- [📊 Ressources & Comparatif](./Ressources_Comparatif_Chatbot.md)  

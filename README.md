@@ -41,11 +41,9 @@ pmo-chatbot/
 ├── tests/                           → Jeu de tests QA
 │   └── QA_Test_Set.md               → 33 questions (20 factuelles, 10 pièges, 3 bonus)
 │
-├── docs/                            → Documentation complémentaire
-│   ├── Ressources_Comparatif_Chatbot.md → Comparatif Botpress, Dialogflow, Rasa, etc.
-│   ├── Mindmap_Botpress.md          → Version textuelle + légende de la mindmap
+├── docs/                            → Documentation complémentaire 
 │   └── assets/                      → Visuels et captures
-│       ├── Mindmap_Botpress.png     → Image de la mindmap Botpress
+│       ├── banner-projet-augmente.png     → Image de la bannière
 │       └── .gitkeep                 → (assure la présence du dossier vide si besoin)
 
 ```

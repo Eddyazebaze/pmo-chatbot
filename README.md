@@ -1,3 +1,12 @@
+<!-- BANNIÈRE -->
+<p align="center">
+  <img src="assets/banner-projet-augmente.png" alt="Projet Augmenté - From IT projects to strategic assets" width="880">
+</p>
+
+<p align="center">
+  <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg">  
+</p>
+
 # 🤖 PMO Chatbot - Projet Augmenté
 
 Un chatbot expérimental développé avec **Botpress** pour tester la capacité d’un assistant à répondre de manière fiable et pédagogique sur le **PMO (Project Management Office)**.
@@ -10,7 +19,7 @@ Un chatbot expérimental développé avec **Botpress** pour tester la capacité 
 
 ---
 
-## 🎯 Objectifs
+## Objectifs
 - Évaluer la robustesse des réponses sur le rôle du PMO.  
 - Tester la capacité du bot à éviter les **hallucinations**.  
 - Fournir une **base de connaissances pédagogique et structurée** en Markdown.  
@@ -18,7 +27,7 @@ Un chatbot expérimental développé avec **Botpress** pour tester la capacité 
   
 ---
 
-## 📂 Structure du projet
+## Structure du projet
 ```
 pmo-chatbot/
 ├── README.md                        → Présentation générale du projet
@@ -42,7 +51,7 @@ pmo-chatbot/
 ```
 ---
 
-## 🧪 Protocole de test
+## Protocole de test
 - **20 questions factuelles** → doivent obtenir une réponse claire.  
 - **10 questions pièges** → doivent générer un refus clair.  
 - **3 questions bonus** → robustesse supplémentaire.  
@@ -54,7 +63,7 @@ pmo-chatbot/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1️⃣ Prérequis
 - [Node.js](https://nodejs.org/) ≥ 18  
@@ -85,14 +94,14 @@ cd pmo-chatbot
 
 ---
 
-## 🛠️ Stack utilisée
+## Stack utilisée
 - [Botpress](https://botpress.com/) - plateforme low-code pour chatbots  
 - **Markdown** - structuration de la KB  
 - **GitHub** - gestion de version et documentation  
 
 ---
 
-## 🚀 Roadmap
+## Roadmap
 - [ ] Ajouter la version enrichie de la KB (livrables + cas concrets).  
 - [ ] Déployer une démo publique du bot.  
 - [ ] Ajouter des scénarios de test automatisés.  
@@ -100,18 +109,25 @@ cd pmo-chatbot
 
 ---
 
-## ⚠️ Limites
+## Limites
 - Ce bot est expérimental.  
 - Ne couvre pas les cas spécifiques (RH, contrats, réglementations locales).  
 - Pour toute précision métier → escalade vers un expert humain.  
 
 ---
 
-## 👤 Auteur
-**Eddy AZEBAZE, PMP®, CISM®** 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-pmp-cism)  
-- 💻 [GitHub](https://github.com/Eddyazebaze)  
-- **Email :** *eddy.azebaze@proton.me*  
+## Passer à l’action
+
+Ce projet est conçu par **Eddy AZEBAZE, PMP®, CISM®** - **Chef de projet IT & PMO stratégique**, spécialisé en **gestion de projets complexes**, **data**, **IA responsable**, **conformité réglementaire** (AI Act, RGPD, NIS2, DORA) et **gouvernance IT orientée valeur**.  
+
+- 👉 [Réserver 30 min](https://calendly.com/eddy-azebaze-proton/30min)  
+- 👉 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-pmp-cism)  
+- 👉 [Email direct](mailto:eddy.azebaze@proton.me)  
+- 👉 [Medium](https://medium.com/@eddyazebaze)  
+
+---
+
+> *«💡 « On ne livre pas un projet. On construit un actif stratégique : durable, traçable et auditable. »
 
 ---
 

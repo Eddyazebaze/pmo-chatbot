@@ -22,11 +22,11 @@ Un chatbot expérimental développé avec **Botpress** pour tester la capacité 
 ## 🎥 Démo vidéo
 
 Découvrez le fonctionnement complet du **Chatbot PMO - Projet Augmenté®** :  
-zéro hallucination, traçabilité, et réponses pédagogiques.
+zéro hallucination, traçabilité et réponses pédagogiques.
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1akBbd66K7mcZmJsnbZOp2HZwaU2-dxzj/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
-    <img src="./docs/assets/demo-chatbot-pmo-projet-augmente-eddy-azebaze.png" alt="Miniature vidéo - Chatbot PMO Projet Augmenté (Eddy Azebaze)" width="780">
+    <img src="./assets/demo-chatbot-pmo-projet-augmente-eddy-azebaze.png" alt="Miniature vidéo - Chatbot PMO Projet Augmenté (Eddy Azebaze)" width="780">
   </a>
 </p>
 
@@ -56,16 +56,15 @@ pmo-chatbot/
 ├── tests/                           → Jeu de tests QA
 │   └── QA_Test_Set.md               → 33 questions (20 factuelles, 10 pièges, 3 bonus)
 │
-├── docs/                            → Documentation complémentaire 
-│   └── assets/                      → Visuels et captures
-│       ├── banner-projet-augmente.png     → Image de la bannière
-│       ├── demo-chatbot-pmo-projet-augmente-eddy-azebaze.png  → Miniature démo vidéo
-│       └── .gitkeep
+├── assets/                          → Visuels et captures
+│   ├── banner-projet-augmente.png          → Image de la bannière
+│   ├── demo-chatbot-pmo-projet-augmente-eddy-azebaze.png → Miniature démo vidéo
+│   └── .gitkeep
 ```
 
 ---
 
-## Protocole de test
+## 🧪 Protocole de test
 - **20 questions factuelles** → doivent obtenir une réponse claire.  
 - **10 questions pièges** → doivent générer un refus explicite.  
 - **3 questions bonus** → testent la robustesse de la KB.  
@@ -131,9 +130,9 @@ cd pmo-chatbot
 
 ---
 
-## 👤 À propos
+## À propos
 
-Conçu par **Eddy AZEBAZE, PMP®, CISM®**   
+Conçu par **Eddy AZEBAZE, PMP®, CISM®** -  
 **Chef de projet IT & PMO stratégique**, spécialisé en **projets complexes**, **data**, **IA responsable**, **conformité réglementaire** (AI Act, RGPD, NIS2, DORA) et **gouvernance IT orientée valeur**.  
 
 - 👉 [Réserver 30 min](https://calendly.com/eddy-azebaze-proton/30min)  

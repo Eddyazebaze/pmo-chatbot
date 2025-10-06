@@ -7,19 +7,34 @@
   <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg">  
 </p>
 
-# 🤖 PMO Chatbot - Projet Augmenté
+# 🤖 PMO Chatbot - Projet Augmenté®
 
-Un chatbot expérimental développé avec **Botpress** pour tester la capacité d’un assistant à répondre de manière fiable et pédagogique sur le **PMO (Project Management Office)**.
+Un chatbot expérimental développé avec **Botpress** pour tester la capacité d’un assistant à répondre de manière fiable, contextualisée et pédagogique sur le **PMO (Project Management Office)**.
 
 ![Status](https://img.shields.io/badge/status-beta-brightgreen)
-[![Live Demo](https://img.shields.io/badge/demo-online-blue)](https://cdn.botpress.cloud/webchat/v3.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/09/20/23/20250920230011-RY5POMNZ.json)
+[![🎥 Démo Vidéo](https://img.shields.io/badge/demo-voir_la_vidéo-blue)](https://drive.google.com/file/d/1akBbd66K7mcZmJsnbZOp2HZwaU2-dxzj/view?usp=drive_link)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Botpress](https://img.shields.io/badge/Botpress-v12-blue)
 ![Made with Love](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
 
 ---
 
-## Objectifs
+## 🎥 Démo vidéo
+
+Découvrez le fonctionnement complet du **Chatbot PMO - Projet Augmenté®** :  
+zéro hallucination, traçabilité, et réponses pédagogiques.
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1akBbd66K7mcZmJsnbZOp2HZwaU2-dxzj/view?usp=drive_link" target="_blank" rel="noopener">
+    <img src="docs/assets/demo-chatbot.png" alt="Miniature vidéo - Chatbot PMO Projet Augmenté" width="780">
+  </a>
+</p>
+
+> 💡 *Cliquez sur l’image ou sur le badge ci-dessus pour visionner la démonstration complète (Google Drive).*
+
+---
+
+## 🎯 Objectifs
 - Évaluer la robustesse des réponses sur le rôle du PMO.  
 - Tester la capacité du bot à éviter les **hallucinations**.  
 - Fournir une **base de connaissances pédagogique et structurée** en Markdown.  
@@ -27,7 +42,7 @@ Un chatbot expérimental développé avec **Botpress** pour tester la capacité 
   
 ---
 
-## Structure du projet
+## 🧱 Structure du projet
 ```
 pmo-chatbot/
 ├── README.md                        → Présentation générale du projet
@@ -44,16 +59,17 @@ pmo-chatbot/
 ├── docs/                            → Documentation complémentaire 
 │   └── assets/                      → Visuels et captures
 │       ├── banner-projet-augmente.png     → Image de la bannière
+│       ├── demo-chatbot.png               → Miniature de la démo vidéo
 │       └── .gitkeep                 → (assure la présence du dossier vide si besoin)
-
 ```
+
 ---
 
-## Protocole de test
+## 🧪 Protocole de test
 - **20 questions factuelles** → doivent obtenir une réponse claire.  
-- **10 questions pièges** → doivent générer un refus clair.  
-- **3 questions bonus** → robustesse supplémentaire.  
-- **Critères de succès** : ≥ 8/10 par réponse  
+- **10 questions pièges** → doivent générer un refus explicite.  
+- **3 questions bonus** → testent la robustesse de la KB.  
+- **Critères de succès :** ≥ 8/10 par réponse  
   - Exactitude (0-4)  
   - Périmètre (0-3)  
   - Clarté (0-2)  
@@ -61,7 +77,7 @@ pmo-chatbot/
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 ### 1️⃣ Prérequis
 - [Node.js](https://nodejs.org/) ≥ 18  
@@ -69,7 +85,6 @@ pmo-chatbot/
 - Git installé pour cloner le repo  
 
 ### 2️⃣ Installation
-Clonez le repo :
 ```bash
 git clone https://github.com/Eddyazebaze/pmo-chatbot.git
 cd pmo-chatbot
@@ -88,48 +103,49 @@ cd pmo-chatbot
 ### 5️⃣ Vérification
 - Réponses factuelles → doivent être précises et pédagogiques.  
 - Questions pièges → le bot doit refuser proprement.  
-- Bonus → confirmer la robustesse de la KB.  
+- Bonus → confirme la robustesse de la KB.  
 
 ---
 
-## Stack utilisée
+## ⚙️ Stack utilisée
 - [Botpress](https://botpress.com/) - plateforme low-code pour chatbots  
-- **Markdown** - structuration de la KB  
+- **Markdown** - structuration de la base de connaissances  
 - **GitHub** - gestion de version et documentation  
+- **Google Drive** - hébergement de la démonstration vidéo  
 
 ---
 
-## Roadmap
-- [ ] Ajouter la version enrichie de la KB (livrables + cas concrets).  
-- [ ] Déployer une démo publique du bot.  
-- [ ] Ajouter des scénarios de test automatisés.  
-- [ ] Créer un tableau de suivi (GitHub Projects) pour tracer les évolutions.  
+## 🧭 Roadmap
+- [x] Ajouter la démo vidéo du chatbot  
+- [ ] Ajouter la version enrichie de la KB (livrables + cas concrets)  
+- [ ] Déployer une version publique du bot  
+- [ ] Ajouter des scénarios de test automatisés  
+- [ ] Créer un tableau de suivi GitHub Projects  
 
 ---
 
-## Limites
+## ⚠️ Limites
 - Ce bot est expérimental.  
 - Ne couvre pas les cas spécifiques (RH, contrats, réglementations locales).  
 - Pour toute précision métier → escalade vers un expert humain.  
 
 ---
 
-## Passer à l’action
+## 👤 À propos
 
-Ce projet est conçu par **Eddy AZEBAZE, PMP®, CISM®** - **Chef de projet IT & PMO stratégique**, spécialisé en **gestion de projets complexes**, **data**, **IA responsable**, **conformité réglementaire** (AI Act, RGPD, NIS2, DORA) et **gouvernance IT orientée valeur**.  
+Conçu par **Eddy AZEBAZE, PMP®, CISM®** -  
+**Chef de projet IT & PMO stratégique**, spécialisé en **projets complexes**, **data**, **IA responsable**, **conformité réglementaire** (AI Act, RGPD, NIS2, DORA) et **gouvernance IT orientée valeur**.  
 
 - 👉 [Réserver 30 min](https://calendly.com/eddy-azebaze-proton/30min)  
 - 👉 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-pmp-cism)  
 - 👉 [Email direct](mailto:eddy.azebaze@proton.me)  
-- 👉 [Medium](https://medium.com/@eddyazebaze)  
+- 👉 [Medium](https://medium.com/@eddyazebaze)
 
 ---
 
-> *«💡 « On ne livre pas un projet. On construit un actif stratégique : durable, traçable et auditable. »
+> 💡 *« On ne livre pas un projet. On construit un actif stratégique : durable, traçable et auditable. »*
 
 ---
 
 ## 📜 Licence
-Projet sous licence **MIT** - libre pour usage et adaptation, avec attribution.  
-
-
+Projet sous licence **MIT** - libre pour usage et adaptation, avec attribution.

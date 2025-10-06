@@ -12,21 +12,21 @@
 Un chatbot expérimental développé avec **Botpress** pour tester la capacité d’un assistant à répondre de manière fiable, contextualisée et pédagogique sur le **PMO (Project Management Office)**.
 
 ![Status](https://img.shields.io/badge/status-beta-brightgreen)
-[![🎥 Démo Vidéo](https://img.shields.io/badge/demo-voir_la_vidéo-blue)](https://drive.google.com/file/d/1akBbd66K7mcZmJsnbZOp2HZwaU2-dxzj/view?usp=drive_link)
+[![🎥 Démo Vidéo](https://img.shields.io/badge/demo-voir_la_video-blue)](https://drive.google.com/file/d/1akBbd66K7mcZmJsnbZOp2HZwaU2-dxzj/view?usp=drive_link)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Botpress](https://img.shields.io/badge/Botpress-v12-blue)
 ![Made with Love](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
 
 ---
 
-## Démo vidéo
+## 🎥 Démo vidéo
 
 Découvrez le fonctionnement complet du **Chatbot PMO - Projet Augmenté®** :  
 zéro hallucination, traçabilité, et réponses pédagogiques.
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1akBbd66K7mcZmJsnbZOp2HZwaU2-dxzj/view?usp=drive_link" target="_blank" rel="noopener">
-    <img src="docs/assets/demo-chatbot.png" alt="Miniature vidéo - Chatbot PMO Projet Augmenté" width="780">
+  <a href="https://drive.google.com/file/d/1akBbd66K7mcZmJsnbZOp2HZwaU2-dxzj/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+    <img src="./docs/assets/demo-chatbot-pmo-projet-augmente-eddy-azebaze.png" alt="Miniature vidéo - Chatbot PMO Projet Augmenté (Eddy Azebaze)" width="780">
   </a>
 </p>
 
@@ -59,8 +59,8 @@ pmo-chatbot/
 ├── docs/                            → Documentation complémentaire 
 │   └── assets/                      → Visuels et captures
 │       ├── banner-projet-augmente.png     → Image de la bannière
-│       ├── demo-chatbot.png               → Miniature de la démo vidéo
-│       └── .gitkeep                 → (assure la présence du dossier vide si besoin)
+│       ├── demo-chatbot-pmo-projet-augmente-eddy-azebaze.png  → Miniature démo vidéo
+│       └── .gitkeep
 ```
 
 ---
@@ -133,7 +133,7 @@ cd pmo-chatbot
 
 ## 👤 À propos
 
-Conçu par **Eddy AZEBAZE, PMP®, CISM®** -  
+Conçu par **Eddy AZEBAZE, PMP®, CISM®**   
 **Chef de projet IT & PMO stratégique**, spécialisé en **projets complexes**, **data**, **IA responsable**, **conformité réglementaire** (AI Act, RGPD, NIS2, DORA) et **gouvernance IT orientée valeur**.  
 
 - 👉 [Réserver 30 min](https://calendly.com/eddy-azebaze-proton/30min)  
@@ -147,5 +147,5 @@ Conçu par **Eddy AZEBAZE, PMP®, CISM®** -
 
 ---
 
-## Licence
+## 📜 Licence
 Projet sous licence **MIT** - libre pour usage et adaptation, avec attribution.

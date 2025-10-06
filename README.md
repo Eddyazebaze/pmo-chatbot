@@ -26,7 +26,7 @@ zéro hallucination, traçabilité et réponses pédagogiques.
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1akBbd66K7mcZmJsnbZOp2HZwaU2-dxzj/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/demo-chatbot-pmo-projet-augmente-eddy-azebaze.png" alt="Miniature vidéo - Chatbot PMO Projet Augmenté (Eddy Azebaze)" width="780">
+    <img src="./assets/demo-chatbot.png" alt="Miniature vidéo - Chatbot PMO Projet Augmenté (Eddy Azebaze)" width="780">
   </a>
 </p>
 
@@ -58,13 +58,13 @@ pmo-chatbot/
 │
 ├── assets/                          → Visuels et captures
 │   ├── banner-projet-augmente.png          → Image de la bannière
-│   ├── demo-chatbot-pmo-projet-augmente-eddy-azebaze.png → Miniature démo vidéo
+│   ├── demo-chatbot.png                    → Miniature démo vidéo
 │   └── .gitkeep
 ```
 
 ---
 
-## 🧪 Protocole de test
+## Protocole de test
 - **20 questions factuelles** → doivent obtenir une réponse claire.  
 - **10 questions pièges** → doivent générer un refus explicite.  
 - **3 questions bonus** → testent la robustesse de la KB.  
@@ -145,6 +145,10 @@ Conçu par **Eddy AZEBAZE, PMP®, CISM®** -
 > 💡 *« On ne livre pas un projet. On construit un actif stratégique : durable, traçable et auditable. »*
 
 ---
+## Licence
 
-## 📜 Licence
-Projet sous licence **MIT** - libre pour usage et adaptation, avec attribution.
+Projet sous licence **MIT** - libre d’usage et d’adaptation avec attribution.
+
+---
+
+<sub>© Projet Augmenté® - démonstrateur fourni “as-is” pour usage d’évaluation. Conformité RGPD / NIS2 / DORA / AI Act. Traçabilité et réversibilité au cœur de la démarche.</sub>

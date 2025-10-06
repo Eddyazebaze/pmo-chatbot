@@ -19,7 +19,7 @@ Un chatbot expérimental développé avec **Botpress** pour tester la capacité 
 
 ---
 
-## 🎥 Démo vidéo
+## Démo vidéo
 
 Découvrez le fonctionnement complet du **Chatbot PMO - Projet Augmenté®** :  
 zéro hallucination, traçabilité, et réponses pédagogiques.
@@ -34,7 +34,7 @@ zéro hallucination, traçabilité, et réponses pédagogiques.
 
 ---
 
-## 🎯 Objectifs
+## Objectifs
 - Évaluer la robustesse des réponses sur le rôle du PMO.  
 - Tester la capacité du bot à éviter les **hallucinations**.  
 - Fournir une **base de connaissances pédagogique et structurée** en Markdown.  
@@ -42,7 +42,7 @@ zéro hallucination, traçabilité, et réponses pédagogiques.
   
 ---
 
-## 🧱 Structure du projet
+## Structure du projet
 ```
 pmo-chatbot/
 ├── README.md                        → Présentation générale du projet
@@ -65,7 +65,7 @@ pmo-chatbot/
 
 ---
 
-## 🧪 Protocole de test
+## Protocole de test
 - **20 questions factuelles** → doivent obtenir une réponse claire.  
 - **10 questions pièges** → doivent générer un refus explicite.  
 - **3 questions bonus** → testent la robustesse de la KB.  
@@ -77,7 +77,7 @@ pmo-chatbot/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1️⃣ Prérequis
 - [Node.js](https://nodejs.org/) ≥ 18  
@@ -107,7 +107,7 @@ cd pmo-chatbot
 
 ---
 
-## ⚙️ Stack utilisée
+## Stack utilisée
 - [Botpress](https://botpress.com/) - plateforme low-code pour chatbots  
 - **Markdown** - structuration de la base de connaissances  
 - **GitHub** - gestion de version et documentation  
@@ -115,7 +115,7 @@ cd pmo-chatbot
 
 ---
 
-## 🧭 Roadmap
+## Roadmap
 - [x] Ajouter la démo vidéo du chatbot  
 - [ ] Ajouter la version enrichie de la KB (livrables + cas concrets)  
 - [ ] Déployer une version publique du bot  
@@ -124,7 +124,7 @@ cd pmo-chatbot
 
 ---
 
-## ⚠️ Limites
+## Limites
 - Ce bot est expérimental.  
 - Ne couvre pas les cas spécifiques (RH, contrats, réglementations locales).  
 - Pour toute précision métier → escalade vers un expert humain.  
@@ -147,5 +147,5 @@ Conçu par **Eddy AZEBAZE, PMP®, CISM®** -
 
 ---
 
-## 📜 Licence
+## Licence
 Projet sous licence **MIT** - libre pour usage et adaptation, avec attribution.
